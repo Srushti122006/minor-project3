@@ -121,6 +121,6 @@ The repository contains the SQL detection queries and project documentation.
 
 ## Author
 
-**Srushti Pujari**
+**Srushti**
 
 Student | Learning SQL & Data Analytics
